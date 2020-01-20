@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project Jenny_The_Show_Bot-Imported)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Jenny_The_Show_Bot-Imported",
+    "language": "java"
+  }
+]
